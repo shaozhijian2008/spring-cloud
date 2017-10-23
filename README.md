@@ -15,7 +15,8 @@
 | refCorporation | 公司名称 | Y | 公司名称 |
 | state | 项目说明 | N | 项目说明 |
 | fileName | 附件名称 | Y | 附件名称 |
-| fileBase64 | 附件base64 | Y | 附件base64编码数据 |
+| filePath | 附件url | Y | 附件url  |
+| fileBase64 | 附件base64 | N | 附件base64编码数据 |
 	
 
 > 返回内容说明
