@@ -6,7 +6,7 @@
 
 | 字段名称 | 字段中文名称 | 是否必须 | 说明 |
 | ---- | ---- | ---- | ---- |
-| weixinId | 微信ID | N | 微信ID |
+| weixinName | 微信昵称 | Y | 微信昵称 |
 | reporterId | 分销系统内的用户id | Y | 分销系统内的用户id |
 | reporter | 姓名 | Y | 提交人姓名 |
 | phone | 手机号 | Y | 手机号 |
