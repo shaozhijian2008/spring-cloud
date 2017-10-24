@@ -1,5 +1,5 @@
  ##  项目报备提交      
-* 请求路径 : /oss/project/api/add
+* 请求路径 : /project/api/add
 * 接口所在类 : ProjectFilingController
 
 > 请求参数说明
@@ -34,7 +34,7 @@
 ```
 
  ## 我的报备总数      
-* 请求路径 : /oss/project/api/count
+* 请求路径 : /project/api/count
 * 接口所在类 : ProjectFilingController
 
 > 请求参数说明
@@ -60,7 +60,7 @@
 ```
 
  ## 我的报备列表      
-* 请求路径 : /oss/project/api/list
+* 请求路径 : /project/api/list
 * 接口所在类 : ProjectFilingController
 
 > 请求参数说明
